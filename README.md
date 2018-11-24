@@ -6,5 +6,5 @@ The dataset used here is a derivation of the “Natural Images” dataset (https
 The number of images in the original dataset has been reduced randomly for building the “Mini Natural Images”. This dataset consists of three phases for train, test and validation.  (The dataset is available in the GitHub repository) 
 Here’s an overview of the “Mini Natural Images” dataset.
 
-A complete desciption on the experiment is available here. (  )
+A complete desciption on the experiment is available here. ( https://naadispeaks.wordpress.com/2018/11/24/transfer-learning-in-convnets-part-2/ )
 
